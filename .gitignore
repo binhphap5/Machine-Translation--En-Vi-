@@ -1,0 +1,6 @@
+/logs/*
+/bart-en-vi/*
+/mbart-50-en-vi/*
+/transformer-en-vi/*
+tokenizer_en.json
+tokenizer_vi.json
